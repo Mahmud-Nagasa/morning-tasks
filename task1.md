@@ -1,19 +1,7 @@
-# DevOps and The Cloud
+# Cloud Concepts and VPC
 
-Do some research to answer the following questions in your own words as best as you can.
-
-1. What is DevOps?
-
-<!-- Write your answer here -->
-
-2. What are the 3 ways of DevOps and what do they mean in your own words?
-
-<!-- Write you answer here -->
-
-3. What do you think a DevOps Engineer does as part of a team?
-
-<!-- Write you answer here -->
-
-4. What do you think the most important qualities of a DevOps or Cloud engineer are?
-
-<!-- Write you answer here -->
+1. What are the difference between a server and your computer?
+server is used to store data, while a computer is used to use that data
+2. How can you tell whether an IP address is public or private?
+ private id address have a range that is different from public ip address in classes(i.e 192.168.0.0 which is class c) 
+3. Explain in your own words the difference between Cloud, Hybrid, and On-Premises deployment models.
