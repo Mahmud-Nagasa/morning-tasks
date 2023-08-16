@@ -1,3 +1,3 @@
 # morning-tasks
 
-This repo is for everyday morining tasks before the lectures
+This repo is for everyday morning tasks before the lectures
