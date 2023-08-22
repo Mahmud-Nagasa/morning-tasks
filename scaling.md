@@ -49,7 +49,11 @@ What scaling decision would you choose and what steps do you think you might tak
 
 in this situation the demands are temporary for the sale event, hence we just need to handle the traffic for a period of time. Therefore, renting other web servers under a load balancer will solve the issue and after the event is over we can just return these servers and not waste any resources.
 
-in other words using horizontal scaling is the solution I recommend
+in other words using Elastic horizontal scaling  is the solution I recommend
 ## More...
 
-If you finish with this one, give one of your mentors a message for another scenario to have a go at
+# Scenario 2: Social Media Platform with Sudden Viral Content
+
+In this scenario, your social media platform has just gone viral due to a popular post or video. The traffic to your platform has skyrocketed, and you need to ensure that your infrastructure can handle the increased load without affecting user experience.
+
+in this situation the first thing I would look at is that the platform has began to be popular which indicate that the increase in numbers of visitors will not be temporary, so I would look into upgrading my resources (vertical scaling), and of course increase the amount of servers I have to overcome the issues of limited scalability and one point of failure
