@@ -12,7 +12,8 @@ by reducing the time to create every last bit by just reusing a module, breaking
 since the output block enable us to  see information about the infrastructure such as IDs,IPs or DNS. it is useful for sharing information with team members  and make it easy to access 
 
 5. How can you pass arguments to a module? What steps do you need to take to add an argument?
-I would first check the input variable provided by the publisher, then declare the variable and the value of the variable based on it's data type and the requirement of my infrastructure
+I would first check the input variable provided by the publisher, then declare the variable and the value of the variable based on it's data type and the requirement of my infrastructure/
+Edit: form the lecture I now understand that we add the arguments using a variable and vartf files tp add arguments to our module 
 
 6. Imagine you're creating a Terraform module to deploy an AWS VPC. What are some variables you might define for this module to make it adaptable for different environments?
 
