@@ -41,7 +41,7 @@ Kubernetes employs several mechanisms and strategies to ensure high availability
 
 4. What is a Kubernetes Service, and why is it important for networking and communication between Pods?
 
-  service is a group of pods that enable to expose them to interaction with the internet providing fault tolerance, and load balancing, in other words it's to manage pods
+  service is an abstraction used to expose them to interaction with the internet providing fault tolerance, and load balancing, in other words it's to manage pods
 
 
 5. What is a Pod in Kubernetes, and why is it a fundamental building block for containerized applications?
